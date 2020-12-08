@@ -1,9 +1,9 @@
 {
-  "name": "@octo-bot/app",
+  "name": "my-awesome-bot",
   "version": "1.0.0",
   "scripts": {
-    "start": "ts-node index.ts",
-    "dev": "ts-node-dev index.ts"
+    "start": "ts-node src/index.ts",
+    "dev": "ts-node-dev src/index.ts"
   },
   "private": true,
   "dependencies": {
